@@ -1,0 +1,134 @@
+*{
+    margin-top: 0;
+    margin-left: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: -20px;
+}
+section{
+    padding: 100px;
+    width: 100%;
+    height: 100vh;
+}
+
+.banner{
+    padding: 0;
+    position: relative;
+    top: 0;
+    overflow: hidden;
+}
+
+.banner .backVideo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    z-index: -1;
+}
+
+.banner .titleBox{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.banner .titleBox .title{
+    width: 500px;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px 20px;
+}
+
+.banner .titleBox .title h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 48px;
+    
+}
+
+.btn{
+    position: absolute;
+    top: 70vh;
+    left: 40vh;
+	background: #12d400;
+	color: #fff;
+	padding: 10px 30px ;
+	display: inline-block;
+	text-decoration: none;
+	font-weight: 500;
+    font-size: 28px;
+	letter-spacing: 2px;
+}
+
+/* title */
+
+.about .title{
+	width: 100%;
+	text-align: center;
+}
+
+.about .title h2{ 
+	position: relative;
+	font-size: 1.8em;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+.about .title p{
+	max-width: 700px;
+	display: inline-block;
+}
+
+.about .title h2::before{
+	content: '';
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: -10px;
+	width: 60px;
+	height: 4px;
+	background: #000;
+}
+
+/* About */
+
+.about{
+	background: #fff;
+}
+
+.about .content{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 40px;
+}
+
+.about .content .textBox{
+	min-width: 49%;
+	width: 49%;
+}
+.about .content .textBox p{
+	color: #000;
+}
+
+.about .content .imgBox{
+	margin-left: 40px;
+}
+
+.about .content .imgBox img{
+	max-width: 100%;
+}
+
+.about p{
+	font-size: 1.1em;
+	margin: 20px 0;
+	font-weight: 300;
+}
