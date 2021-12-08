@@ -6,6 +6,7 @@
 	scroll-behavior: smooth;
 }
 .copyright{
+	width: 100% !important;
 	color: #fff;
 	background: #111;
 	text-align: center;

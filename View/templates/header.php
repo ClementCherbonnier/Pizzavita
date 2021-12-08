@@ -12,7 +12,8 @@
         </a>
         <ul>
             <li><a class="active" href="/Pizzavita">Accueil</a></li>
-            <li><a href="#about">À Propos</a></li>
+            <li><a href="#about">Nos Valeur</a></li>
+            <li><a href="#team">Equipe</a></li>
             <li><a href="/Pizzavita/contact">Contact</a></li>
         </ul>
     </header>
