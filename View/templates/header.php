@@ -15,6 +15,7 @@
             <li><a href="/Pizzavita#about">Nos Valeur</a></li>
             <li><a href="/Pizzavita#team">Equipe</a></li>
             <li><a href="/Pizzavita/contact">Contact</a></li>
+            <li><a href="/Pizzavita/phototeque">Phototeque</a></li>
         </ul>
     </header>
 
