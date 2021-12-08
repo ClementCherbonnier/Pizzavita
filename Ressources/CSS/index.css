@@ -134,6 +134,13 @@ section{
 .team{
     background-color: #000;
 }
+
+.team p{
+    font-size: 1.1em;
+    margin: 20px 0;
+    font-weight: 300;
+}
+
 .team .title{
     color: #fff;
 	width: 100%;
@@ -235,16 +242,3 @@ section{
     text-transform: initial;
 }
 
-.imagesPhototèque{
-    width: 150px;
-    height: 150px;
-}
-
-.bodyPhototeque{
-margin-top: 42px;
-}
-
-.sectionBar, .sectionEvenement, .sectionSoiree{
-    margin-right: 10%;
-    margin-left: 10%;
-}
