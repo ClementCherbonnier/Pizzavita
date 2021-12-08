@@ -7,9 +7,9 @@ class Phototeque extends Controller{
      * @return void
      */
     public function index(){
-        include_once('../View/templates/head.php');
-        include_once('../View/templates/header.php');
-        include_once('../View/phototèque.php');
-        include_once('../View/templates/footer.php');
+        include_once(ROOT.'/View/templates/head.php');
+        include_once(ROOT.'/View/templates/header.php');
+        include_once(ROOT.'/View/phototèque.php');
+        include_once(ROOT.'/View/templates/footer.php');
     }
 }
