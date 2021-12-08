@@ -5,7 +5,7 @@
         <title>Phototèque</title>
         <link rel="stylesheet" href="/Pizzavita/Ressources/Css/index.css">
     </head>
-    <body>  
+    <body class="bodyPhototeque">
         <div class="sectionBar">
             <h4>Galerie bar</h4>
             <img class="imagesPhototèque" alt="../Ressources/bar1.jfif" src="/Pizzavita/Ressources/bar1.jfif">
