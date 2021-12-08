@@ -88,6 +88,15 @@
           </div>
         </div>
       </div>
+      <!-- Polo -->
+      <div class="card">
+        <div class="content">
+          <div class="imgBox"><img src="Ressources/user6.jpg" alt="Polo"></div>
+          <div class="contentBox">
+            <h3>Polo<br><span>SCP</span></h3>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 </body>
