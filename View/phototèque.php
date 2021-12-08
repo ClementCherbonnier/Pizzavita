@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Phototèque</title>
+        <link rel="stylesheet" href="/Pizzavita/Ressources/Css/index.css">
     </head>
     <body>  
         <div class="sectionBar">
