@@ -6,7 +6,7 @@
 <body>
     <header>
         <a href="/Pizzavita">
-            <img class="logo" id="Logo" src="/Pizzavita/Ressources/Logo_O-L.png">
+            <img class="logo" id="Logo" src="/Pizzavita/Ressources/favicon.png">
             <p>|</p>
             <h1>pizzavita</h1>
         </a>
