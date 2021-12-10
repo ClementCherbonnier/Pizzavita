@@ -6,6 +6,9 @@
   <link rel="icon" href="/Pizzavita/Ressources/favicon.png" />
   <link href="/Pizzavita/lib/bootstrap-5.1.3-dist/css/bootstrap.min.css" rel="stylesheet">
   <title>Pizzavita</title>
+  <!-- Bootstrap font -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+
 </head>
 <body>
   <!-- jQuery link -->
